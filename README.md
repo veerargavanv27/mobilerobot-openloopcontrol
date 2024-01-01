@@ -79,23 +79,14 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 ## MobileRobot Movement Image:
-
 ![robo](./img/robomaster.png)
-
 Insert image here
 ![293211591-d4d248e0-aa60-40ed-8c2e-c5e13672c0d4](https://github.com/veerargavanv27/mobilerobot-openloopcontrol/assets/138955645/b6102002-ae51-4460-b02f-4a21fc9575c1)
-
 ## MobileRobot Movement Video:
-
 Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 https://youtu.be/AEPxrGjeM18?si=xIFC1maQlvaobrt8
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
 ```
 Mobile Robotics Laboratory
 VEERARAGAVAN V
